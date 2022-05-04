@@ -7,8 +7,7 @@ master = Tk()
 canvas = Canvas(master , height=450 , width=750)
 canvas.pack()
 
-def pencere2(event):
-    pencere2= tkinter.Tk()
+
 
 
 frame_ust = Frame(master , bg="#eab676")
