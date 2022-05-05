@@ -64,16 +64,6 @@ giriş_butonu.pack(anchor=S)
 
 
 
-<<<<<<< HEAD
 master.mainloop() 
 
 
-=======
-master.mainloop()
-
-sayfa3 = Tk()
-
-
-
-sayfa3.mainloop()
->>>>>>> c62d8b491d9f79dc35085a542443d165e5c5e974
