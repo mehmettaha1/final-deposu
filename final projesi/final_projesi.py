@@ -64,5 +64,6 @@ giriş_butonu.pack(anchor=S)
 
 
 
-master.mainloop()
-dgdhhndn
+master.mainloop() 
+
+print("olsun")
