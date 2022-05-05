@@ -65,4 +65,4 @@ giriş_butonu.pack(anchor=S)
 
 
 master.mainloop()
-
+dgdhhndn
