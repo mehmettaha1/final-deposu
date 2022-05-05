@@ -65,4 +65,9 @@ giriş_butonu.pack(anchor=S)
 
 
 master.mainloop()
-dgdhhndn
+
+sayfa3 = Tk()
+
+
+
+sayfa3.mainloop()
